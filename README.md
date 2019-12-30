@@ -1,4 +1,4 @@
-# weather_app
+# IIT Flutter Workshop ---- Weather App
 
 A new weather application.
 
